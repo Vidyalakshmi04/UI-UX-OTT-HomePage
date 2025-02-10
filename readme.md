@@ -10,7 +10,7 @@ The Home Page design focuses on delivering a visually appealing experience that 
 
 The Home Page design is minimalist and clean, ensuring the focus remains on the content. 
 
-![Home Page Design](./assets/home-page.png)
+![Home Page Design](UIUX-OTT.png)
 
 ## Design Tools Used
 - **Figma**: For creating the high-fidelity UI design and interactive prototypes.
